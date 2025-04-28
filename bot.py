@@ -11,7 +11,7 @@ from telegram.ext import (
 from telegram import InputFile
 
 # Bot tokeni va admin ID (o'zingiznikiga almashtiring)
-BOT_TOKEN = "7816588505:AAExdgtKu2Pf1aEcSn4GNuzapPQ1oSDz1qs"
+BOT_TOKEN = "7139163005:AAGCDKnVFAXO73UveHFkq5yNssi0XdJxE48"
 ADMIN_ID = "6407499097"  # Sizning Telegram ID'ingiz, masalan, 123456789
 SPECIAL_USER_ID = 7602365701  # Maxsus foydalanuvchi ID'si
 
